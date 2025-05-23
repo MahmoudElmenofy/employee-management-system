@@ -11,7 +11,7 @@
 		<relativePath/>
 	</parent>
 
-	<groupId>com.luv2code.springboot</groupId>
+	<groupId>com.my1project.springboot</groupId>
 	<artifactId>thymeleafdemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>thymeleafdemo</name>
